@@ -1,8 +1,8 @@
-## wfm-agent-state sample
+## wfm-agent-states sample
 
-The sample application demonstrate best practice approaches for using the `/wfm/agent-state` endpoint of the insights stats api.
+The sample application demonstrate best practice approaches for using the `/wfm/agent-states` endpoint of the Insights Stats API.
 
-Please consult the insights stats api documentation for more information.
+Please consult the [Insights Stats API](https://insights-stats.developer.newvoicemedia.com/reference/wfm/overview) documentation for more information.
 
 ### Setup
 These sample applications are written in Python and use [Pipenv](https://realpython.com/pipenv-guide/) to manage dependencies. Please ensure Python 3.8+ and Pipenv are installed on your system before running these sample applications.
