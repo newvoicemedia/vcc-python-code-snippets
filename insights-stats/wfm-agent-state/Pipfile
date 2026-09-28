@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "~=2.26.0"
+requests = "~=2.34.2"
 pyrecord = "~=1.0.1"
 schedule = "~=1.1.0"
 
